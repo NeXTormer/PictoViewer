@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PictoView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PictoView_jar</output-path>
+    <root id="archive" name="PictoView.jar">
+      <element id="module-output" name="PictoView" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jdeli-trial.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
